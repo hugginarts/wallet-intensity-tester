@@ -17,21 +17,13 @@ Wallet Intensity es un panel local para estudiar operaciones históricas de una 
 
 > Es una herramienta de investigación retrospectiva. No predice rentabilidad futura, no reproduce el precio disponible al copiar una operación y no envía órdenes.
 
-## Vista del producto
+## Captura real del informe
 
 <p align="center">
-  <img src="assets/dashboard-preview.svg" alt="Vista ilustrativa del formulario de análisis" width="100%">
+  <img src="assets/wallet-intensity-results.jpg" alt="Informe real de Wallet Intensity abierto en un teléfono" width="390">
 </p>
 
-<p align="center">
-  <img src="assets/results-preview.svg" alt="Vista ilustrativa del informe, métricas y cobertura" width="100%">
-</p>
-
-*Las imágenes son vistas ilustrativas de la interfaz. No muestran resultados de una wallet real.*
-
-<p align="center">
-  <img src="assets/mobile-preview.svg" alt="Vista móvil ilustrativa del panel" width="280">
-</p>
+Esta captura muestra el panel ejecutándose en un teléfono. El ejemplo tiene seis operaciones cerradas y por eso el veredicto indica **datos insuficientes**; las cifras corresponden a esa muestra y no predicen resultados futuros.
 
 ## Funciones
 
@@ -125,7 +117,7 @@ Las contribuciones son bienvenidas. Lee [CONTRIBUTING.md](CONTRIBUTING.md) antes
 
 Wallet Intensity is a **local, read-only Solana wallet research dashboard**. It reviews recognizable SOL/WSOL- and USDC/USDT-quoted swaps, pairs closed positions with FIFO accounting, and models user-entered trade size, slippage, and fees. It reports realized metrics and data coverage, runs in Termux or Python, and never asks for private keys or sends trades.
 
-The screenshots above are illustrative interface previews, not real wallet results. RPC history can be incomplete or rate-limited. Complex swaps may be omitted, open positions are not marked to market, and modeled slippage is not actual execution. Historical scores are not forecasts or investment advice.
+The screenshot above shows the running mobile dashboard and one real report with six closed trades. The app marks that sample as insufficient; its figures are specific to that wallet and window, not a forecast. RPC history can be incomplete or rate-limited. Complex swaps may be omitted, open positions are not marked to market, and modeled slippage is not actual execution.
 
 ## Proyecto
 
