@@ -5,7 +5,12 @@
 
   **Analiza el historial público de una wallet de Solana y estima cómo cambiaría el resultado al considerar slippage y costos.**
 
-  `SOLANA` · `TERMUX / ANDROID` · `PYTHON` · `SOLO LECTURA`
+  <p>
+    <img src="https://img.shields.io/badge/PLATAFORMA-TERMUX%20%2F%20ANDROID-8B5CF6?style=for-the-badge&amp;labelColor=34343B" alt="Plataforma: Termux y Android">
+    <img src="https://img.shields.io/badge/MODO-SOLO%20LECTURA-14B8A6?style=for-the-badge&amp;labelColor=34343B" alt="Modo: solo lectura">
+    <img src="https://img.shields.io/badge/RED-SOLANA-3B82F6?style=for-the-badge&amp;labelColor=34343B" alt="Red: Solana">
+    <img src="https://img.shields.io/badge/LENGUAJE-PYTHON-A855F7?style=for-the-badge&amp;labelColor=34343B" alt="Lenguaje: Python">
+  </p>
 </div>
 
 Wallet Intensity es un panel local para estudiar operaciones históricas de una dirección pública. Detecta swaps reconocibles cotizados en **SOL/WSOL o USDC/USDT**, agrupa compras y ventas cerradas y permite probar supuestos de tamaño, slippage y comisión.
