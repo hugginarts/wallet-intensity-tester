@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="760" viewBox="0 0 1200 760" fill="none">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="760" gradientUnits="userSpaceOnUse"><stop stop-color="#0b0711"/><stop offset="1" stop-color="#1a1027"/></linearGradient>
+    <linearGradient id="cta" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#a855f7"/><stop offset="1" stop-color="#c084fc"/></linearGradient>
+    <radialGradient id="glow" cx="0" cy="0" r="1" gradientTransform="matrix(430 0 0 280 1035 97)" gradientUnits="userSpaceOnUse"><stop stop-color="#8b5cf6" stop-opacity=".18"/><stop offset="1" stop-color="#8b5cf6" stop-opacity="0"/></radialGradient>
+  </defs>
+  <rect width="1200" height="760" rx="30" fill="url(#bg)"/><rect width="1200" height="760" rx="30" fill="url(#glow)"/>
+  <rect x="42" y="38" width="1116" height="684" rx="24" fill="#100b18" stroke="#3c2a4c" stroke-width="2"/>
+  <rect x="42" y="38" width="1116" height="60" rx="24" fill="#171020"/><path d="M42 98h1116" stroke="#352743"/>
+  <circle cx="75" cy="68" r="7" fill="#c084fc"/><text x="96" y="74" fill="#f4effa" font-family="Inter,Arial,sans-serif" font-size="18" font-weight="700">WALLET INTENSITY</text>
+  <text x="835" y="73" fill="#a99db5" font-family="Inter,Arial,sans-serif" font-size="14">SOLANA · PUBLIC WALLET RESEARCH</text>
+  <rect x="78" y="133" width="277" height="27" rx="13.5" fill="#29163b" stroke="#553575"/><circle cx="96" cy="146" r="4" fill="#c084fc"/><text x="108" y="151" fill="#dfc5ff" font-family="Inter,Arial,sans-serif" font-size="11" font-weight="700" letter-spacing="1.2">READ-ONLY · LOCAL DASHBOARD</text>
+  <text x="78" y="204" fill="#fbf7ff" font-family="Inter,Arial,sans-serif" font-size="39" font-weight="800">Study the history. Model the costs.</text>
+  <text x="80" y="235" fill="#aa9eb8" font-family="Inter,Arial,sans-serif" font-size="17">Review public Solana swaps and test your own copy assumptions.</text>
+  <rect x="78" y="270" width="1044" height="350" rx="20" fill="#17111f" stroke="#3c2a4c" stroke-width="2"/>
+  <text x="112" y="312" fill="#a99db5" font-family="Inter,Arial,sans-serif" font-size="15" font-weight="600">PUBLIC SOLANA WALLET</text>
+  <rect x="112" y="328" width="976" height="58" rx="12" fill="#0b0711" stroke="#493557"/>
+  <text x="134" y="364" fill="#ece4f4" font-family="ui-monospace,monospace" font-size="17">7xKp...demo-address...4pQ</text>
+  <g font-family="Inter,Arial,sans-serif">
+    <text x="112" y="426" fill="#a99db5" font-size="14">TRANSACTIONS</text><text x="360" y="426" fill="#a99db5" font-size="14">ASSUMED SLIPPAGE</text><text x="610" y="426" fill="#a99db5" font-size="14">SIZE PER TRADE</text><text x="860" y="426" fill="#a99db5" font-size="14">COST PER SWAP</text>
+    <rect x="112" y="443" width="218" height="58" rx="12" fill="#0b0711" stroke="#493557"/><rect x="360" y="443" width="218" height="58" rx="12" fill="#0b0711" stroke="#493557"/><rect x="610" y="443" width="218" height="58" rx="12" fill="#0b0711" stroke="#493557"/><rect x="860" y="443" width="228" height="58" rx="12" fill="#0b0711" stroke="#493557"/>
+    <text x="134" y="480" fill="#f4effa" font-size="20">500</text><text x="382" y="480" fill="#f4effa" font-size="20">5% per side</text><text x="632" y="480" fill="#f4effa" font-size="20">0.1 SOL</text><text x="882" y="480" fill="#f4effa" font-size="20">0.003 SOL</text>
+  </g>
+  <rect x="112" y="524" width="976" height="57" rx="12" fill="#21142f" stroke="#553575"/><text x="137" y="560" fill="#d9b6ff" font-family="Inter,Arial,sans-serif" font-size="16" font-weight="650">Optional private RPC endpoint</text><text x="1054" y="560" text-anchor="end" fill="#887991" font-family="Inter,Arial,sans-serif" font-size="14">Saved only for this request</text>
+  <rect x="78" y="648" width="1044" height="48" rx="13" fill="url(#cta)"/><text x="600" y="679" text-anchor="middle" fill="#1b0c27" font-family="Inter,Arial,sans-serif" font-size="17" font-weight="800">ANALYZE WALLET</text>
+  <text x="600" y="743" text-anchor="middle" fill="#8d8097" font-family="Inter,Arial,sans-serif" font-size="13">Illustrative interface preview · no real wallet or performance data</text>
+</svg>

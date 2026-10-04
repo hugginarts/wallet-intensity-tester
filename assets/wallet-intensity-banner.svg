@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="560" viewBox="0 0 1600 560" fill="none">
+  <defs>
+    <linearGradient id="bg" x1="76" y1="14" x2="1480" y2="566" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#090611"/><stop offset=".58" stop-color="#160d24"/><stop offset="1" stop-color="#24113d"/>
+    </linearGradient>
+    <linearGradient id="violet" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#c084fc"/><stop offset="1" stop-color="#7c3aed"/></linearGradient>
+    <linearGradient id="line" x1="1054" y1="142" x2="1470" y2="412" gradientUnits="userSpaceOnUse"><stop stop-color="#d8b4fe"/><stop offset="1" stop-color="#8053db"/></linearGradient>
+    <radialGradient id="glow" cx="0" cy="0" r="1" gradientTransform="matrix(420 0 0 300 1270 255)" gradientUnits="userSpaceOnUse"><stop stop-color="#8b5cf6" stop-opacity=".24"/><stop offset="1" stop-color="#8b5cf6" stop-opacity="0"/></radialGradient>
+  </defs>
+  <rect width="1600" height="560" rx="34" fill="url(#bg)"/>
+  <rect width="1600" height="560" rx="34" fill="url(#glow)"/>
+  <circle cx="1456" cy="53" r="174" stroke="#8b5cf6" stroke-opacity=".1"/>
+  <circle cx="1456" cy="53" r="132" stroke="#c084fc" stroke-opacity=".12"/>
+  <circle cx="1456" cy="53" r="91" stroke="#c084fc" stroke-opacity=".14"/>
+  <g opacity=".42" stroke="#68418f" stroke-width="1.4"><path d="m1044 125 92 52 83-47 80 66 103-37"/><path d="m1080 392 83-61 74 48 99-76 96 43"/><path d="m1338 110 22 38 52-8 32 45"/></g>
+  <g fill="#d8b4fe"><circle cx="1044" cy="125" r="4"/><circle cx="1136" cy="177" r="4"/><circle cx="1219" cy="130" r="4"/><circle cx="1299" cy="196" r="4"/><circle cx="1402" cy="159" r="4"/><circle cx="1080" cy="392" r="4"/><circle cx="1163" cy="331" r="4"/><circle cx="1237" cy="379" r="4"/><circle cx="1336" cy="303" r="4"/><circle cx="1432" cy="346" r="4"/></g>
+  <rect x="92" y="82" width="300" height="43" rx="21.5" fill="#27153a" stroke="#573479"/>
+  <circle cx="118" cy="103" r="6" fill="#c084fc"/><text x="137" y="109" fill="#dfc5ff" font-family="Inter,Arial,sans-serif" font-size="15" font-weight="700" letter-spacing="2.1">SOLANA WALLET RESEARCH</text>
+  <text x="88" y="226" fill="#fbf7ff" font-family="Inter,Arial,sans-serif" font-size="76" font-weight="800" letter-spacing="-2.5">Wallet Intensity</text>
+  <text x="94" y="281" fill="#cfc3da" font-family="Inter,Arial,sans-serif" font-size="25">A clearer read on a wallet’s historical trades</text>
+  <text x="94" y="319" fill="#cfc3da" font-family="Inter,Arial,sans-serif" font-size="25">after assumed slippage and fees.</text>
+  <g transform="translate(94 379)">
+    <rect width="194" height="52" rx="13" fill="#27163a" stroke="#593777"/>
+    <path d="M22 27h15m-7-7 7 7-7 7" stroke="#d8b4fe" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+    <text x="51" y="33" fill="#eadcf8" font-family="Inter,Arial,sans-serif" font-size="16" font-weight="700">Historical review</text>
+    <rect x="208" width="151" height="52" rx="13" fill="#27163a" stroke="#593777"/>
+    <path d="M231 18v16m-6-6 6 6 6-6" stroke="#d8b4fe" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+    <text x="250" y="33" fill="#eadcf8" font-family="Inter,Arial,sans-serif" font-size="16" font-weight="700">Read-only</text>
+  </g>
+  <g transform="translate(1074 145)">
+    <rect width="394" height="270" rx="22" fill="#100b18" stroke="#573b70" stroke-width="2"/>
+    <rect x="20" y="19" width="354" height="41" rx="11" fill="#1a1224"/>
+    <circle cx="40" cy="39" r="5" fill="#c084fc"/><circle cx="58" cy="39" r="5" fill="#8b5cf6"/><circle cx="76" cy="39" r="5" fill="#553675"/>
+    <text x="105" y="44" fill="#a99db5" font-family="Inter,Arial,sans-serif" font-size="14">wallet analysis · local session</text>
+    <rect x="20" y="80" width="354" height="59" rx="12" fill="#181221" stroke="#352743"/>
+    <text x="37" y="104" fill="#a99db5" font-family="Inter,Arial,sans-serif" font-size="12">COPY SIMULATION</text>
+    <text x="37" y="127" fill="#e9d5ff" font-family="Inter,Arial,sans-serif" font-size="19" font-weight="700">Slippage and fees modeled</text>
+    <rect x="20" y="155" width="166" height="91" rx="13" fill="#181221" stroke="#352743"/>
+    <text x="35" y="180" fill="#a99db5" font-family="Inter,Arial,sans-serif" font-size="12">CLOSED POSITIONS</text>
+    <text x="35" y="218" fill="#f4effa" font-family="Inter,Arial,sans-serif" font-size="30" font-weight="800">FIFO</text>
+    <rect x="198" y="155" width="176" height="91" rx="13" fill="#181221" stroke="#352743"/>
+    <text x="213" y="180" fill="#a99db5" font-family="Inter,Arial,sans-serif" font-size="12">CHECKLIST</text>
+    <path d="m218 207 5 5 10-12m11 7h96" stroke="url(#line)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="m218 228 5 5 10-12m11 7h76" stroke="#a78bfa" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" opacity=".7"/>
+  </g>
+  <text x="94" y="498" fill="#887991" font-family="Inter,Arial,sans-serif" font-size="15" letter-spacing="1.4">HUGGINARTS · RESEARCH CAREFULLY</text>
+</svg>
